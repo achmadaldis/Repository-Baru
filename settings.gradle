@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 include ':app'
 rootProject.name='ProjectArab'
+=======
+include ':app'
+rootProject.name='ProjectArab'
+>>>>>>> 8f23820 (first commit)
